@@ -67,8 +67,16 @@
 6am-up 能长期存在的基础是持续为组员提供组员所需的价值
 
 
-NO PAY ANYWAY!
 
 热爱早期，想通过早起自律的朋友可以加wechat: boer19930812, 入群备注：I want join 6am-up ; 拉你入群
 
+# 贡献
+
+	如果你觉得6am-up还不错，或对你有很大帮助，或给你带来很多有价值的东西，你愿意为6am-up贡献一份力量让6am-up变得更好，更好的服务组友和自己，可以联系我（wechat: boer19930812）或捐一份钱财到6am-up公共基金。
+
+	![wechat pay](wechat-pay.jpg "wechat pay")  | ![alipay](alipay.jpg "alipay")
+
+	我们会如实的公布6am-up公共基金的收入和支出情况，作为贡献者您也可以监督我们。
+
+	[6am-up贡献支出情况](CONTRIBUTION.md)
 
