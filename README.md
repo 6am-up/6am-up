@@ -72,11 +72,8 @@
 
 # 贡献
 
-	如果你觉得6am-up还不错，或对你有很大帮助，或给你带来很多有价值的东西，你愿意为6am-up贡献一份力量让6am-up变得更好，更好的服务组友和自己，可以联系我（wechat: boer19930812）或捐一份钱财到6am-up公共基金。
+如果你觉得6am-up还不错，或对你有很大帮助，或给你带来很多有价值的东西，你愿意为6am-up贡献一份力量让6am-up变得更好，更好的服务组友和自己，可以联系我（wechat: boer19930812）或贡献一份钱财到6am-up公共基金。
 
-	![wechat pay](wechat-pay.jpg "wechat pay")  | ![alipay](alipay.jpg "alipay")
+我们会如实的公布6am-up公共基金的收入和支出情况，作为贡献者您也可以监督我们。
 
-	我们会如实的公布6am-up公共基金的收入和支出情况，作为贡献者您也可以监督我们。
-
-	[6am-up贡献支出情况](CONTRIBUTION.md)
-
+[6am-up贡献支出情况](CONTRIBUTION.md)
