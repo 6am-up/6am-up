@@ -6,7 +6,7 @@
 
 如果你觉得6am-up还不错，或对你有很大帮助，或给你带来很多有价值的东西，你愿意为6am-up贡献一份力量让6am-up变得更好，更好的服务组友和自己，可以联系我（wechat: boer19930812）或捐一份钱财到6am-up公共基金。
 <center class="half">
- <img src="wechat-pay.jpg" alt="wechat-pay" title="wechat-pay" style="zoom:33%;" />  <img src="alipay.jpg" alt="alipay" title="alipay" style="zoom:70%;" />
+ <img src="wechat-pay.png" alt="wechat-pay" title="wechat-pay" style="zoom:33%;" />  <img src="alipay.png" alt="alipay" title="alipay" style="zoom:70%;" />
 </center>
 
 我们会如实的公布6am-up公共基金的贡献和支出情况，作为贡献者您也可以监督我们。
